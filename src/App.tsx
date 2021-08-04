@@ -15,9 +15,9 @@ export const App = () => (
     <Box textAlign="center" fontSize="xl">
       <Grid minH="auto" p={1}>
         <ColorModeSwitcher justifySelf="flex-end" />                 
-          <Heading>
-            DS ASSISTÊNCIA
-          </Heading>      
+        <Heading>
+          DS ASSISTÊNCIA
+        </Heading>      
       </Grid>
     </Box>
     <Body/>
